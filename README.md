@@ -36,3 +36,10 @@
 <strong>Colegio:  </strong>      Estadual Almirante Tamandaré   <br>
 <strong>Período:    </strong>    02/2016 - 06/2017   
 </div>
+
+#Conhecimentos
+
+![php](https://img.shields.io/badge/-php-05122A?style=flat&color=blue)&nbsp;![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&color=blue)&nbsp;![postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&color=blue)&nbsp;![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&color=blue)&nbsp;![html](https://img.shields.io/badge/-html-05122A?style=flat&color=blue)
+
+#Eventos
+##### VDP Weekend
