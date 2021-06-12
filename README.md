@@ -21,3 +21,18 @@
 <strong>Faculdade:  </strong>    UniALFA  <br>
 <strong>Período:    </strong>    01/2018 - 07/2020   
 </div>
+
+#Experiência Profissional
+
+<div> 
+<strong>Empresa:      </strong>    GazinTech <br>
+<strong>Cargo:        </strong>    Desenvolvedor Full Stack  <br>
+<strong>Período:      </strong>    06/2020 - Atualmente
+</div>
+
+# Cursos/Qualificações
+<div> 
+<strong>Curso:      </strong>    Técnico em Informática  <br>
+<strong>Colegio:  </strong>      Estadual Almirante Tamandaré   <br>
+<strong>Período:    </strong>    02/2016 - 06/2017   
+</div>
