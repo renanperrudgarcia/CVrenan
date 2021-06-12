@@ -21,3 +21,11 @@
 <strong>Faculdade:  </strong>    UniALFA  <br>
 <strong>Período:    </strong>    01/2018 - 07/2020   
 </div>
+
+
+#Projetos Pessoais
+
+<div> 
+<strong>Graduação     </strong>    (Finalizado) <br>
+<strong>Pós Graduação </strong>    (Andamento)  <br> 
+</div>
