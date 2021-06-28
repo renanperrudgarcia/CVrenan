@@ -22,7 +22,7 @@
 <strong>Período:    </strong>    01/2018 - 07/2020   
 </div>
 
-#Experiência Profissional
+# Experiência Profissional
 
 <div> 
 <strong>Empresa:      </strong>    GazinTech <br>
@@ -37,14 +37,14 @@
 <strong>Período:    </strong>    02/2016 - 06/2017   
 </div>
 
-#Conhecimentos
+# Conhecimentos
 
 ![php](https://img.shields.io/badge/-php-05122A?style=flat&color=blue)&nbsp;![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&color=blue)&nbsp;![postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&color=blue)&nbsp;![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&color=blue)&nbsp;![html](https://img.shields.io/badge/-html-05122A?style=flat&color=blue)
 
-#Eventos
+# Eventos
 ##### VDP Weekend
 
-#Projetos Pessoais
+# Projetos Pessoais
 
 <div> 
 <strong>Graduação     </strong>    (Finalizado) <br>
@@ -52,10 +52,10 @@
 </div>
 
 
-#Redes sociais
+# Redes sociais
 
 <a href="https://www.linkedin.com/in/renan-perrud-garcia-915b82180/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  <a href="https://www.facebook.com/renan.garcia.773124"><img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white"/></a> <a href="https://www.instagram.com/renan_perrud_garcia/"><img src="https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=instagram&logoColor=white"/></a> 
 
-#Informações adicionais
+# Informações adicionais
 
 <p> Meu nome é Renan tenho 23 anos atualmente trabalho como Desenvolvedor Junior da GazinTech </p>
